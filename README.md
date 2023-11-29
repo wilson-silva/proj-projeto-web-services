@@ -19,3 +19,4 @@ em prática, e vai te permitir compreender como os tópicos se unem para a const
 - 297 Material de apoio do capítulo
 - 298 Criação do projeto
 - 299 Entidade User e seu resource
+- 300 Banco de dados H2, test profile, JPA
