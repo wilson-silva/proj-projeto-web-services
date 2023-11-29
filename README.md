@@ -2,8 +2,11 @@
 Continuação do curso ministrado pelo Professor Nélio - Java COMPLETO 2023 Programação Orientada a Objetos +Projetos
 
 ### Repositório das aulas anteriores:
+
 https://github.com/wilson-silva/curso-nivelamento-jpa-hibernate
+
 https://github.com/wilson-silva/demo-dao-jdbc
+
 https://github.com/wilson-silva/curso-java-udemy
 
 Além de cobrir a teoria de forma clara e objetiva, o curso possui muito enfoque prático. Cada seção do curso possui exercícios resolvidos e
