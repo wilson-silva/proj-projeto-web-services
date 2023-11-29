@@ -18,3 +18,4 @@ em prática, e vai te permitir compreender como os tópicos se unem para a const
 - 296 AVISO: sobre projeto atualizado
 - 297 Material de apoio do capítulo
 - 298 Criação do projeto
+- 299 Entidade User e seu resource
