@@ -21,3 +21,4 @@ em prática, e vai te permitir compreender como os tópicos se unem para a const
 - 299 Entidade User e seu resource
 - 300 Banco de dados H2, test profile, JPA
 - 301 JPA repository, injeção de dependência, database seeding
+- 302 Camada de serviço, registro de componentes
