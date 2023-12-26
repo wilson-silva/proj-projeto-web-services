@@ -22,3 +22,5 @@ em prática, e vai te permitir compreender como os tópicos se unem para a const
 - 300 Banco de dados H2, test profile, JPA
 - 301 JPA repository, injeção de dependência, database seeding
 - 302 Camada de serviço, registro de componentes
+- 303 Entidade Pedido. Datas com Instant e padrão ISO 8601 - PARTE 1
+- 304 Entidade Pedido. Datas com Instant e padrão ISO 8601 - PARTE 2
