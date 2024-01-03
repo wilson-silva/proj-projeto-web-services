@@ -25,3 +25,4 @@ em prática, e vai te permitir compreender como os tópicos se unem para a const
 - 303 Entidade Pedido. Datas com Instant e padrão ISO 8601 - PARTE 1
 - 304 Entidade Pedido. Datas com Instant e padrão ISO 8601 - PARTE 2
 - 305 Enum OrderStatus
+- 306 Entidade Category
