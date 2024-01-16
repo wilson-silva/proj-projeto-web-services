@@ -26,3 +26,8 @@ em prática, e vai te permitir compreender como os tópicos se unem para a const
 - 304 Entidade Pedido. Datas com Instant e padrão ISO 8601 - PARTE 2
 - 305 Enum OrderStatus
 - 306 Entidade Category
+- 307 Entidade Product
+- 308 Associação muitos-para-muitos com JoinTable
+- 309 Entidade OrderItem. Associação muitos-para-muitos com dados extras - parte 1
+- 310 Entidade OrderItem. Associação muitos-para-muitos com dados extras - parte 2
+- 311 Associação muitos para muitos entre Product e OrderItem
