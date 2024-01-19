@@ -21,5 +21,10 @@ public class UserService {
 	public User findById(Long id) {
 		return repository.findById(id).get();
 	}
+	
+	public void insert(User obj) {
+		repository.save(obj);
+	}
+
 
 }
