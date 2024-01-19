@@ -32,6 +32,7 @@ em prática, e vai te permitir compreender como os tópicos se unem para a const
 - 310 Entidade OrderItem. Associação muitos-para-muitos com dados extras - parte 2
 - 311 Associação muitos para muitos entre Product e OrderItem
 - 312 Entidade Payment, associação um para um
+- 313 Métodos subtotal e total
 
 
 

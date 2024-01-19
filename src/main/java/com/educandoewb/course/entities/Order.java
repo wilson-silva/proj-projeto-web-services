@@ -39,9 +39,9 @@ public class Order implements Serializable {
 	private User client;
 
 	@OneToMany(mappedBy = "id.order")
-	//@Fetch(FetchMode.JOIN)
+	// @Fetch(FetchMode.JOIN)
 	private Set<OrderItem> items = new HashSet<>();
-	
+
 	@OneToOne(mappedBy = "order", cascade = CascadeType.ALL)
 	private Payment payment;
 
@@ -91,7 +91,7 @@ public class Order implements Serializable {
 	public void setClient(User client) {
 		this.client = client;
 	}
-	
+
 	public Payment getPayment() {
 		return payment;
 	}
@@ -102,6 +102,13 @@ public class Order implements Serializable {
 
 	public Set<OrderItem> getItems() {
 		return items;
+	}
+
+	public Double getTotal() {
+		if (Objects.isNull(items)) {
+			return 0.0;
+		}
+		return items.stream().mapToDouble(OrderItem::getSubTotal).sum();
 	}
 
 	@Override
@@ -120,7 +127,5 @@ public class Order implements Serializable {
 		Order other = (Order) obj;
 		return Objects.equals(id, other.id);
 	}
-	
-	
 
 }
