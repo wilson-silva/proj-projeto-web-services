@@ -35,6 +35,7 @@ em prática, e vai te permitir compreender como os tópicos se unem para a const
 - 313 Métodos subtotal e total
 - 314 Inserção de User
 - 315 Deleção de User
+- 316 Atualização de User
 
 
 
