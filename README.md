@@ -37,6 +37,7 @@ em prática, e vai te permitir compreender como os tópicos se unem para a const
 - 315 Deleção de User
 - 316 Atualização de User
 - 317 Tratamento de exceção - findById
+- 318 Tratamento de exceção - delete
 
 
 
