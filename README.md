@@ -38,7 +38,16 @@ em prática, e vai te permitir compreender como os tópicos se unem para a const
 - 316 Atualização de User
 - 317 Tratamento de exceção - findById
 - 318 Tratamento de exceção - delete
-
+- 319 Tratamento de exceção - update
+- 320 AVISO: implantação no Heroku
+- 321 Criando app Heroku e provisionando banco PostgreSQL
+- 322 Instalação do PostgreSQL
+- 323 Profile dev
+- 324 Obtendo script SQL a partir do PostgreSQL local
+- 325 Executando script SQL no servidor remoto
+- 326 Instalando o Heroku CLI
+- 327 Deploy do sistema no Heroku
+- 328 Testando o sistema em produção
 
 
 
